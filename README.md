@@ -17,3 +17,14 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=fabiocprates&show_icons=true" />
 </picture>
+<div style="display: inline_block"><br>
+<img eight=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img eight=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img eight=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+<img eight=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" />
+<img eight=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
+<img eight=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+
+</div>
+
+
