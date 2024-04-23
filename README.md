@@ -1,6 +1,10 @@
 ## Ola, eu sou Fabio Coelho Prates 👋
 
-
+[![Contatos](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiocprates)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 - 🔭 Estou trabalhando com Adminsitração de Sistemas, Instalação de redes estruturadas, montagem e manutenção de computadores...
 - 🌱 Estudo frequentemente sistemas linux, VPN, DNS, DHCP, AD...
 - 👯 Estou buscando colaborar aqui na comunidade Github com projetos em shell script, facilitadores e automatizadores
